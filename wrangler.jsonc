@@ -2,7 +2,6 @@
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "returns-inward-dashboard",
   "compatibility_date": "2026-05-29",
-  "main": "./dist/server/index.js",
   "assets": {
     "directory": "./dist/client"
   }
